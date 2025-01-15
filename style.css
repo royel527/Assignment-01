@@ -1,0 +1,154 @@
+body{
+    background-color: #f1f1ec;
+}
+.header{
+    
+    background-color: #C6E4D6;
+    width: 1280px;
+    
+    height:500px;
+  
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+}
+.img{
+    position:absolute;
+    right: 50px;
+    top: 30px;
+}
+
+.text{
+    width: 200px;
+    padding: 50px;
+    font-weight: bold;
+}
+button{
+    background-color:rgb(0, 106, 80) ;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-top: 70px;
+}
+.last{
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 10px;
+}
+.main{
+    height: 550px;
+    width: 1280px;
+    margin: auto;
+    padding: 10px;
+    /* background-color: #ddd5a4; */
+    border-radius: 10px;
+   
+}
+.table1{
+    background-color: rgba(84, 144, 245, 0.2);
+    height:325px;
+    width: 410px;
+    padding: 20px;
+    
+}
+.table2{
+    background-color:rgb(198, 228, 214);
+    height:325px;
+    width: 410px;
+    padding: 20px;
+}
+.table3{
+    background-color:rgb(247, 235, 207);
+    height:325px;
+    width: 410px;
+    padding: 20px;
+}
+.tablecontanar{
+    display: flex;
+    gap: 10px;
+
+}
+.news1{
+display: flex;
+padding: 20px;
+gap: 20px;
+background-color: #f1e2e2;
+margin-bottom: 20px;
+border-radius: 5px;
+}
+.news{
+    padding: 50px;
+}
+.donate{
+    /* background-color: #C6E4D6; */
+    width: 1280px;
+    height: 500px;
+    margin-top: 20px;
+    padding: 50px;
+
+}
+.box1{
+    background-color: #fff;
+    height: 130px;
+    width: 250px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+   
+}
+
+.box{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+
+  
+}
+input{
+    width: 1000px;
+    text-align: center;
+    margin-left: 130px;
+}
+.ses{
+    margin-top: 150px;
+    background-color:rgb(198, 228, 214);
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.oh{
+    position: absolute;
+    right: 10px;
+
+}
+h1{
+    font-weight: bold;
+}
+p{
+    font-weight: bolder;
+}
+button:hover{
+    background-color: crimson;
+    cursor: pointer;
+    transform: rotate(10deg);
+}
+.box1:hover{
+    background-color: gold;
+    transform: rotate(10deg);
+}
+.Yunus{
+    margin: 30px;
+    background-color: rgb(233, 217, 217);
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url(quote-bg.png);
+    background-repeat: no-repeat;
+}
+.boss{
+    background-color: #C6E4D6;
+}
+.my{
+   text-align: left;
+  
+}
